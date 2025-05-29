@@ -3,6 +3,7 @@
 # 🖼️ Text-to-Image Generator with Stable Diffusion
 
 This project uses the [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5) model to generate images based on text prompts. 
+
 It provides both a **Terminal-based interface** and a **web-based interface using Streamlit** for user interaction.
 
 ---
@@ -27,6 +28,7 @@ It provides both a **Terminal-based interface** and a **web-based interface usin
 
 ---
 pip install -r requirements.txt
+
 You may need to install transformers, torch, diffusers, streamlit, Pillow, etc.
 
 ---
@@ -51,9 +53,13 @@ Enter your prompt and click "Generate Image" to see the result.
 
 ## Example Prompts
 "A magical forest with glowing plants"
+
 "A futuristic robot walking in a desert"
+
 "A watercolor painting of a sunset over the mountains"
+
 "Mountains with the river"
+
 "House with Mountains"
 
 
