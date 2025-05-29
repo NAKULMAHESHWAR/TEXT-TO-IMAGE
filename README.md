@@ -35,7 +35,7 @@ You may need to install transformers, torch, diffusers, streamlit, Pillow, etc.
 
 ## Usage
 
-# Terminal Version
+## Terminal Version
 Run the following command:
 
 python app.py
@@ -43,7 +43,7 @@ You'll be prompted to enter a description.
 
 The generated image will be saved and displayed.
 
-# Streamlit Web Interface
+## Streamlit Web Interface
 Start the Streamlit app with:
 
 streamlit run streamlit_app.py
